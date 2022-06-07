@@ -1,9 +1,10 @@
 import "./App.scss";
+import Testimonial from "./components/Testimonial/Testimonial";
 
 function App() {
   return (
     <div>
-      <h1>Hello World!!!</h1>
+      <Testimonial />
     </div>
   );
 }
